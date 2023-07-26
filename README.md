@@ -6,6 +6,8 @@ Si quieren colaborar en este poryecto, lean la seccion Colaborar.
 
 Para instalar el sitio web, sigan estos pasos:
 
-	1. Hacer 'git clone' del proyecto
-	2. Hacer 'git push' de sus cambios
-	3. Hacer 'git push' al repositorio
+	1. Hacer `git clone` del proyecto
+	2. Hacer `git push` de sus cambios
+	3. Hacer `git push` al repositorio
+
+https://www.markdownguide.org/cheat-sheet/
